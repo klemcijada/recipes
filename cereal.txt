@@ -1,0 +1,10 @@
+Ingredients:
+Cereal
+Whole milk
+
+Tools:
+Bowl
+Spoon
+
+Recipe:
+Pour cereal into the bowl. Pour milk into the same bowl. Use the spoon to eat the cereal.
